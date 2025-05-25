@@ -22,35 +22,37 @@ A:  Jeg taler fransk og arabisk.
 
 Øvelse. Lyt og gentag. (For udtale af vokalerne: se vokalskemaet s.109).
 
-Aa [a'] \
-Bb [be'] \
-Cc [se'] \
-Dd [de] \
-Ee [e'] \
-Ff [af] \
-Gg [ge'] \
-Hh [hã] \
-Ii [i'] \
-Jj [j**] \
-Kk [kå'] \
-Ll [æl] \
-Mm [æm] \
-Nn [æn] \
-Oo [o'] \
-Pp [pe'] \
-Qq [ku'] \
-Rr [a*] \
-Ss [æs] \
-Tt [te'] \
-Uu [u'] \
-Vv [ve'] \
-Ww [d*blve'] \
-Xx [ægs] \
-Yy [y'] \
-Zz [sæd] \
-Ææ [æ'] \
-Øø [ø'] \
-Aå [å']
+| Alphabet | Danish                    | Hindi |
+| :-----   | :-----------------------: | ----: |
+| a        |  Aa [a']                  | 23.99 |
+| b        |  Bb [be']                 | 23.99 |
+| c        |  Cc [se']                 | 19.99 |
+| d        |  Dd [de]                  | 42.99 |
+| e        |  Ee [e']                  | 42.99 |
+| f        |  Ff [af]                  | 42.99 |
+| g        |  Gg [ge']                 | 42.99 |
+| h        |  Hh [hã]                  | 42.99 |
+| i        |  Ii [i']                  | 42.99 |
+| j        |  Jj [j**]                 | 42.99 |
+| k        |  Kk [kå']                 | 42.99 |
+| l        |  Ll [æl]                  | 42.99 |
+| m        |  Mm [æm]                  | 42.99 |
+| n        |  Nn [æn]                  | 42.99 |
+| o        |  Oo [o']                  | 42.99 |
+| p        |  Pp [pe']                 | 42.99 |
+| q        |  Qq [ku']                 | 42.99 |
+| r        |  Rr [a*]                  | 42.99 |
+| s        |  Ss [æs]                  | 42.99 |
+| t        |  Tt [te']                 | 42.99 |
+| u        |  Uu [u']                  | 42.99 |
+| v        |  Vv [ve']                 | 42.99 |
+| w        |  Ww [d*blve']             | 42.99 |
+| x        |  Xx [ægs]                 | 42.99 |
+| y        |  Yy [y']                  | 42.99 |
+| z        |  Zz [sæd]                 | 42.99 |
+| æ        |  Ææ [æ']                  | 42.99 |
+| ø        |  Øø [ø']                  | 42.99 |
+| å        |  Åå [å]                   | 42.99 |
 
 ## L 3 
 ### Dialog 2. Lyt og gentag.
