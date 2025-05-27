@@ -20,9 +20,13 @@ Han vækker børnene - **हैन वेखा बौअनने** - Meaning  
 Han laver morgenmad - **हैन लेवा मोर्न-मेल** - Meaning  ## \
 Han spiser morgenmad - **हैन स्पीसा मोर्न-मेल** - Meaning  ## \
 Han tager på arbejde - **हैन ठा पौ आबाएडा** - Meaning  ## \
-Hun tager bussen / bilen / toget - **हुन ठा बूसन / वीलन / ठोल्ल्ल** - Meaning  ## \
+Hun tager bussen - **हुन ठा बूसन** - Meaning  ## \
+Hun tager bilen - **हुन ठा वीलन** - Meaning  ## \
+Hun tager toget - **हुन ठा ठोल्ल्ल** - Meaning  ## \
 Han cykler - **हैन सूक्ला** - Meaning  ## \
-Hun afleverer børnene i skolen / i vuggestuen / i børnehaven - **हुन आउलवेया बौअनने इ स्खूलन / इ वोगैस्टून / इ बौअननेहेओन** - Meaning  ## \
+Hun afleverer børnene i skolen - **हुन आउलवेया बौअनने इ स्खूलन** - Meaning  ## \
+Hun afleverer børnene i vuggestuen - **हुन आउलवेया बौअनने इ वोगैस्टून** - Meaning  ## \
+Hun afleverer børnene i børnehaven - **हुन आउलवेया बौअनने इ बौअननेहेओन** - Meaning  ## \
 Verber - dag og aften - **वे-आवर - डै ओग/औ आफट्न** - Meaning  ## \
 Lyt, optag og lyt til dig selv. - **लुयूट/लिट, ओप-टेग ओग/औ लुयूट/लिट टिल/ठी डा/दाए सेल्व.** - Meaning  ## \
 
