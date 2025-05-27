@@ -1,12 +1,12 @@
 Q - Hvad er din morgenrytme? - **खु - वै एया/अ डिन/दीन morgenrytme?** - Meaning  ## \
 Q - Hvad laver du om morgenen ? - **खु - वै लेवा डू **om** morgenen ?** - Meaning  ## \
 A - Jeg vågner kl. 5 - **ऐ - या/याए वोउना kl. फैम** - Meaning  ## \
-A - min kone laver morgenmad - **ऐ - मिन खोने लेवा मोर्न-मेल** - Meaning  ## \
+A - min kone laver morgenmad - **ऐ - मिन खोने लेवा मोर्न-मेल** - Meaning  ##
 
 Verber morgen - **वे-आवर मोर्न** - Meaning  ## \
-Lyt, optag og lyt til dig selv. - **लुयूट/लिट, ओप-टेग ओग/औ लुयूट/लिट टिल/ठी डा/दाए सेल्व.** - Meaning  ## \
+Lyt, optag og lyt til dig selv. - **लुयूट/लिट, ओप-टेग ओग/औ लुयूट/लिट टिल/ठी डा/दाए सेल्व.** - Meaning  ## 
 
-Du får ikke feedback fra din lærer på denne opgave. - **डू फौ इख फीडबैक फा/फ़ा डिन/दीन लेया पौ डेना ओप-गेल.** - Meaning  ## \
+Du får ikke feedback fra din lærer på denne opgave. - **डू फौ इख फीडबैक फा/फ़ा डिन/दीन लेया पौ डेना ओप-गेल.** - Meaning  ##
 
 Hun vågner - **हुन वोउना** - Meaning  ## \
 Hun står op - **हुन स्टो अप** - Meaning  ## \
@@ -28,9 +28,9 @@ Hun afleverer børnene i skolen - **हुन आउलवेया बौअन
 Hun afleverer børnene i vuggestuen - **हुन आउलवेया बौअनने इ वोगैस्टून** - Meaning  ## \
 Hun afleverer børnene i børnehaven - **हुन आउलवेया बौअनने इ बौअननेहेओन** - Meaning  ## \
 Verber - dag og aften - **वे-आवर - डै ओग/औ आफट्न** - Meaning  ## \
-Lyt, optag og lyt til dig selv. - **लुयूट/लिट, ओप-टेग ओग/औ लुयूट/लिट टिल/ठी डा/दाए सेल्व.** - Meaning  ## \
+Lyt, optag og lyt til dig selv. - **लुयूट/लिट, ओप-टेग ओग/औ लुयूट/लिट टिल/ठी डा/दाए सेल्व.** - Meaning  ##
 
-Du får ikke feedback fra din lærer på denne opgave. - **डू फौ इख फीडबैक फा/फ़ा डिन/दीन लेया पौ डेना ओप-गेल.** - Meaning  ## \
+Du får ikke feedback fra din lærer på denne opgave. - **डू फौ इख फीडबैक फा/फ़ा डिन/दीन लेया पौ डेना ओप-गेल.** - Meaning  ##
 
 Han køber ind - **हैन खूबा इन्** - Meaning  ## \
 Han tager hjem - **हैन ठा येम** - Meaning  ## \
@@ -49,4 +49,4 @@ Han gør rent - **हैन गौ रैन्ट** - Meaning  ## \
 Han laver mad - **हैन लेवा मेल** - Meaning  ## \
 Han rydder op - **हैन रूल्ला अप** - Meaning  ## \
 Han går i seng - **हैन गौ इ सेन्ग** - Meaning  ## \
-Hun sover - **हुन सोवा** - Meaning  ## \
+Hun sover - **हुन सोवा** - Meaning  ##
